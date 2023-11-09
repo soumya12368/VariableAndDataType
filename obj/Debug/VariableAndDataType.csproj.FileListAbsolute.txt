@@ -1,0 +1,7 @@
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day4\VariableAndDataType\VariableAndDataType\bin\Debug\VariableAndDataType.exe.config
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day4\VariableAndDataType\VariableAndDataType\bin\Debug\VariableAndDataType.exe
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day4\VariableAndDataType\VariableAndDataType\bin\Debug\VariableAndDataType.pdb
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day4\VariableAndDataType\VariableAndDataType\obj\Debug\VariableAndDataType.csproj.AssemblyReference.cache
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day4\VariableAndDataType\VariableAndDataType\obj\Debug\VariableAndDataType.csproj.CoreCompileInputs.cache
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day4\VariableAndDataType\VariableAndDataType\obj\Debug\VariableAndDataType.exe
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day4\VariableAndDataType\VariableAndDataType\obj\Debug\VariableAndDataType.pdb
